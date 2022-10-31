@@ -1,9 +1,6 @@
 ### Hola !! I'm Pragya👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Full Stack Web Development
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on web development projects
